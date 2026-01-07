@@ -6,46 +6,30 @@ Este repositorio es un **fork** del proyecto desarrollado durante la hackathon d
 
 Desarrollamos una solución integral para la **Fundación Huésped**, enfocada en optimizar la gestión de pacientes dentro de su establecimiento. El sistema resuelve problemáticas críticas de:
 
-* 
-**Gestión de turnos y llamados:** Sistema en tiempo real para el llamado de pacientes al consultorio.
+* **Gestión de turnos y llamados:** Sistema en tiempo real para el llamado de pacientes al consultorio.
 
 
-* 
-**Derivación interna:** Coordinación eficiente de pacientes entre las distintas áreas de la clínica.
-
+* **Derivación interna:** Coordinación eficiente de pacientes entre las distintas áreas de la clínica.
 
 
 ## 🛠️ Stack Tecnológico
 
-* 
-**Frontend:** ReactJS.
+* **Frontend:** ReactJS.
 
+* **Backend:** Java.
 
-* 
-**Backend:** Java.
-
-
-* 
-**Base de Datos:** MongoDB.
-
+* **Base de Datos:** MongoDB.
 
 
 ## 📈 Mi Contribución
 
 Como parte de este equipo de 5 desarrolladores, participé activamente aplicando mis conocimientos en:
 
-* 
-**Gestión de Proyectos:** Planificación de tareas y manejo de tiempos bajo la presión de una competencia de alta intensidad de 24-48 horas.
-
-
-* 
-**Desarrollo Frontend:** Creación de componentes clave para la interfaz de usuario (UX/UI).
-
-
-* 
-**Integridad de Datos:** Integración con el backend para asegurar la consistencia y seguridad de la información de los pacientes.
-
-
+* **Gestión de Proyectos:** Planificación de tareas y manejo de tiempos bajo la presión de una competencia de alta intensidad de 24-48 horas.
+  
+* **Desarrollo Frontend:** Creación de componentes clave para la interfaz de usuario (UX/UI).
+  
+* **Integridad de Datos:** Integración con el backend para asegurar la consistencia y seguridad de la información de los pacientes.
 
 ---
 
